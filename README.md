@@ -6,6 +6,10 @@ Therefore, the content of this module will open a well-known barrier for student
 
 Introduction - [pdf version]()
 
+## Note
+
+The components of a robotic system depend widely on its intended application and functionality. However, this module provides a general overview of the most important elements concerning hardware and software for building simple robotic systems.
+
 ## Module tip
 
 Be well-prepared to experiment, iterate, and learn from previous mistakes.
