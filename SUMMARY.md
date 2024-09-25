@@ -2,14 +2,14 @@
 
 - [Introduction](README.md)
 
-## Part 01 - Hardware components for building robotic systems
+## Part 01 - Hardware components
 
 - [Computing Systems](chapter_01/Computing_system.md)
 - [Sensing Systems](chapter_01/Sensing_system.md)
 - [Actuating Systems](chapter_01/Actuating_system.md)
 - [Power Systems](chapter_01/Power_system.md)
 
-## Part 02 - Software components for building robotic systems
+## Part 02 - Software components
 
 - [System Setup](chapter_02/System_setup.md)
 - [Linux Basics](chapter_02/Linux_basics.md)
