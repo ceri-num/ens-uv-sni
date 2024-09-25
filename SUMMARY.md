@@ -1,6 +1,6 @@
 # Module Outline
 
-- [Introduction](README.md)
+- [INTRODUCTION](README.md)
 
 ## Part 01 - Hardware components
 
