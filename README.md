@@ -2,7 +2,7 @@
 
 This module is a part of IDS course providing a general overview of robotics systems for Master's students of [IMT-Nord](http://www.imt-nord-europe.fr) School of Engineering.
 
-Therefore, the content of this module will open a well-known barrier for students regarding how can I start learning robotics. Structured tutorials based on Linux/[ROS](https://ros.org/) and and a project has been designed to give the students a kick start.
+Therefore, the content of this module will open a well-known barrier for students regarding how can I start learning robotics. Structured tutorials based on hardware ([ROS] (https://www.raspberrypi.org/)), software (Linux/[ROS] https://ros.org/), and a project has been designed to give the students a kick start.
 
 Introduction - [pdf version]()
 
