@@ -23,7 +23,7 @@ The assessment of this module comprises 20% of the theoretical part and hand-on 
 
 ## Going further
 
-Despite the content on the internet for learning robotics, we've put together a project-based module to guide the student as a first step toward becoming a robotic engineer. Based on this philosophy, we do not provide an exhaustive definition of concepts and implementations. Hence, the module relies on [Raspberry_Pi] (https://www.raspberrypi.org/), as the hardware aspect, and [ROS](http://www.ros.org/) with its documentation/tutorials [docs.ros.org](https://docs.ros.org) as the software component, for practical sessions.
+Despite the content on the internet for learning robotics, we've put together a project-based module to guide the student as a first step toward becoming a robotic engineer. Based on this philosophy, we do not provide an exhaustive definition of concepts and implementations. Hence, the module relies on [Raspberry_Pi](https://www.raspberrypi.org/), as the hardware aspect, and [ROS](http://www.ros.org/) with its documentation/tutorials [docs.ros.org](https://docs.ros.org) as the software component, for practical sessions.
 
 You also can find an excellent virtual working environment and resources on[The Construct](https://www.theconstructsim.com/).
 
