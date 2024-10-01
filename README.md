@@ -18,8 +18,8 @@ Be well-prepared to experiment, iterate, and learn from previous mistakes.
 
 The supporting materials for this module can be found at the following links:
 
-- On gitbook: link
-- On GitHub: link
+- On gitbook: <https://ceri-num.gitbook.io/uv-sni>
+- On GitHub: <https://github.com/ceri-num/ens-uv-sni>
 
 ## Module evaluation
 

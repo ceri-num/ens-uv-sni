@@ -1,4 +1,4 @@
-# Linux Basics
+# Basic computing systems for robotics
 
 This tutorial guides you to set up a workspace for developing robotic programs.
 We decide to work with Linux-Ubuntu operating system because is a open source os and well supported for many robotic applications.
