@@ -1,8 +1,17 @@
-root: ./
-
+title: "My GitBook"
+description: "A sample GitBook with justified text"
 structure:
   readme: README.md
   summary: SUMMARY.md
 
 redirects:
   previous/page: new-folder/page.md
+
+plugins:
+  - highlight
+  - search
+
+styles:
+  website: styles.css
+
+root: ./
