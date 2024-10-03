@@ -1,24 +1,17 @@
 # Basic computing systems for robotics
 
-This tutorial guides you to set up a workspace for developing robotic programs.
-We decide to work with Linux-Ubuntu operating system because is a open source os and well supported for many robotic applications.
+A computing system is one of the integral aspects of robotics. It is well known that many complex computations take place in robotic system to provide the intelligent capability for this kind of system. For this reason, selecting the right computer is essential. 
 
-## Play with Linux
+However, due to the advancement in computing, there are various kinds of computers with enhanced capabilities. Therefore, choosing a good companion computer for a specific robot is not too challenging. 
 
-Ubuntu is a distribution Linux (Operating System + Window Managment + Tools) derived from Debian distribution.
+As this module of SNI course focuses more on providing hands on experience, without a steep learning curve, a Raspberry Pi will be used as the main computer system. 
 
-It is a classical graphical operating system.
-You can explore the system and launch different program to test-it.
+On the other hand, the operation of a companion computer is often complemented with a separate micro-controller, acting as a a hardware driver, for manipulating electromechanical systems. 
 
-In the variety of program, we are mostly interested in the terminal emulator, permitting to manipulate our system directly from command (moving in the directory tree, read and organize files, execute script or programs, administer...).
+Based on the above philosophy, a quick overview of Raspberry Pi and Arduino will be provided in this part of the module.
 
-- **gnome-terminal**: on [help.gnome.org](https://help.gnome.org/users/gnome-terminal/stable)
+- **Note**: For a brief review of how a computer system works, a simple computer architecture can be found in [Little Man Computer](https://www.101computing.net/LMC/#)
 
-Explore the following command (i.e. what for, how to use it). A good way to do this is to first Google the command ([example](https://duckduckgo.com/?q=command+man&t=newext&atb=v351-6&ia=web)), then play with the command in your terminal.
+## Brief overview of Raspberry Pi
 
-- **man**, **ls**, **cp**, **mv**, **cat**, **rm**
-- **source**, **apt**, **sudo**
-
-To notice that `tabulation` allows for autocompletion.
-
-More commands: **egrep**, **find**, **ps**, ... ([Wikipedia is your friend](https://en.wikibooks.org/wiki/Linux_Guide/Linux_commands)).
+## Quick overview of Arduino
