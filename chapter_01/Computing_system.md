@@ -1,6 +1,6 @@
 A typical computing system consists of hardware components, which have been carefully designed to effectively work together, and software components, also known as programs, that run in the system.
 
-Further theoretical overview and history of a computer, in general, is available at (https://www.techtarget.com/searchwindowsserver/definition/system).
+A simple theoretical overview and history of a computer, in general, is available at [Tech Target](https://www.techtarget.com/searchwindowsserver/definition/system).
  
 - **Note**: For a brief review of how a computer system works, a simple computer architecture can be found in [Little Man Computer](https://www.101computing.net/LMC/#).
 
@@ -15,8 +15,6 @@ As this module of SNI course focuses more on providing hands on experience, with
 On the other hand, the operation of a companion computer is often complemented with a separate micro-controller, acting as a a hardware driver, for manipulating electromechanical systems. 
 
 Based on the above philosophy, a quick overview of Raspberry Pi and Arduino will be provided in this part of the module.
-
-
 
 ### Brief overview of Raspberry Pi
 
