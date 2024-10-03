@@ -1,5 +1,12 @@
+root: ./
+
+styles:
+  website: styles.css
+
 title: "My GitBook"
+
 description: "A sample GitBook with justified text"
+
 structure:
   readme: README.md
   summary: SUMMARY.md
@@ -11,7 +18,4 @@ plugins:
   - highlight
   - search
 
-styles:
-  website: styles.css
 
-root: ./
