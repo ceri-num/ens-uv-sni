@@ -1,7 +1,7 @@
 root: ./
 
 styles:
-  website: STYLES.CSS
+  website: "styles/custom.css"
 
 title: "My GitBook"
 
@@ -17,7 +17,9 @@ redirects:
 plugins:
   - highlight
   - search
-  - theme-default
   - custom-css
+
+
+
 
 

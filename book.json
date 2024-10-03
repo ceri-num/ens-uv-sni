@@ -1,5 +1,8 @@
 {
+    "plugins": [
+        "custom-css"
+    ],
     "styles": {
-        "website": "styles.css"
+        "website": "styles/custom.css"
     }
 }
