@@ -1,8 +1,9 @@
 # IDS - Welcome to SRA module
 
-This module is a part of IDS course providing a general overview of robotics systems for Master's students of [IMT-Nord](http://www.imt-nord-europe.fr) School of Engineering.
+ <div align="justify"> This module is a part of IDS course providing a general overview of robotics systems for Master's students of [IMT-Nord](http://www.imt-nord-europe.fr) School of Engineering.
 
 Therefore, the content of this module will open a well-known barrier for students regarding how can I start learning robotics. Structured tutorials based on hardware, such as [Raspberry_Pi](https://www.raspberrypi.org/), software like [Linux](https://ubuntu.com/download/desktop)-[ROS](https://ros.org/), and a project has been designed to give the students a kick start.
+</div>
 
 Introduction - [pdf version]()
 
@@ -37,3 +38,5 @@ For comments, questions, corrections, feel free to contact:
 
 [Auwal SHEHU](mailto://auwal.shehu@imt-nord-europe.fr)  
 [Lala RAJAOARISOA](mailto://lala.rajaoarisoa@imt-nord-europe.fr)
+
+
