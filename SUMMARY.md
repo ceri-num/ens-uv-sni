@@ -1,15 +1,17 @@
 # Module Outline
 
+## Part 01 - Introduction
+
 - [Introduction](README.md)
 
-## Part 01 - Hardware components
+## Part 02 - Hardware components
 
-- [Computing Systems](chapter_01/Computing_system.md)
+- [Basic computing systems](chapter_01/Computing_system.md)
 - [Sensing Systems](chapter_01/Sensing_system.md)
 - [Actuating Systems](chapter_01/Actuating_system.md)
 - [Power Systems](chapter_01/Power_system.md)
 
-## Part 02 - Software components
+## Part 03 - Software components
 
 - [System Setup](chapter_02/System_setup.md)
 - [Linux Basics](chapter_02/Linux_basics.md)
