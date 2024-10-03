@@ -1,4 +1,4 @@
-# Basic computing systems for robotics
+## Basic computing systems for robotics
 
 A computing system is one of the integral aspects of robotics. It is well known that many complex computations take place in robotic system to provide the intelligent capability for this kind of system. For this reason, selecting the right computer is essential. 
 
@@ -12,6 +12,6 @@ Based on the above philosophy, a quick overview of Raspberry Pi and Arduino will
 
 - **Note**: For a brief review of how a computer system works, a simple computer architecture can be found in [Little Man Computer](https://www.101computing.net/LMC/#)
 
-## Brief overview of Raspberry Pi
+### Brief overview of Raspberry Pi
 
-## Quick overview of Arduino
+### Quick overview of Arduino
