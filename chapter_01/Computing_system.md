@@ -1,9 +1,3 @@
-<style>
-  p {
-    text-align: justify;
-  }
-</style>
-
 A typical computing system consists of hardware components, which have been carefully designed to effectively work together, and software components, also known as programs, that run in the system.
 
 A simple theoretical overview and history of a computer, in general, is available at [Tech Target](https://www.techtarget.com/searchwindowsserver/definition/system).
