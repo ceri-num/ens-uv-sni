@@ -28,7 +28,7 @@ Even though Raspberry Pi has most of the features and capabilities of desktop an
  
 There are different models of raspberry pi available as follows:
 
-![Standard Raspberry Pi 5](../figures/pi_five.png.png)
+![Standard Raspberry Pi 5](../figures/pi_five.png)
 
 - Raspberry Pi 5.
 - Raspberry Pi 4 Model B.
@@ -65,7 +65,7 @@ The CPU speed of Raspberry Pi varies from 700 MHz to 2.4 GHz.
 
 A standard hardware configuration of Raspberry Pi is shown in the figure below:
 
-![A Raspberry Pi Hardware Configuration](../figures/pi_zero.png)
+![A Raspberry Pi Hardware Configuration](../figures/pi_five_hardware_conf.png)
 
 Some of the typical hardware components from the figure above include:
 
