@@ -1,8 +1,14 @@
 {
     "plugins": [
+        "logo",
         "custom-css"
     ],
-    "styles": {
-        "website": "styles/custom.css"
+    "pluginsConfig": {
+        "logo": {
+            "url": ""
+        },
+        "styles": {
+            "website": "styles/custom.css"
+        }
     }
 }

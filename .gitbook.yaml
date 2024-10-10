@@ -18,6 +18,11 @@ plugins:
   - highlight
   - search
   - custom-css
+  - logo
+
+theme:
+  logo: https://github.com/ceri-num/ens-uv-sni.git/logo.png
+
 
 
 
