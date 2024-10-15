@@ -36,6 +36,8 @@ This category of sensors is mostly deployed to interact with/perceive the enviro
 
 - Force/Torque sensors: measure the amount of force and torque applied by or on the robot’s actuators, commonly installed in robotic arms.
 
+![Some External Sensors](../figures/sensors.png)
+
 ### Applications
 
 - Localization and mapping: LIDAR and cameras enable robots to create maps of their surroundings (SLAM - Simultaneous Localization and Mapping).
